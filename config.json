@@ -24,7 +24,7 @@
     {
       "ad_status": 1,
       "main_ad": "FAN",
-      "backup_ad": "ironsource",
+      "backup_ad": "iron",
       "admob_banner_unit_id": "",
       "admob_interstitial_unit_id": "",
       "admob_native_unit_id": "",
@@ -69,7 +69,7 @@
     {
       "id": 1,
       "name": "TIPS",
-      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png"
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2Ficon.png?alt=media&token=eee109ae-fefb-4e44-8564-1ea17266c6c5"
     }
   ],
   "posts": [
@@ -77,7 +77,7 @@
       "id": 1,
       "category": "TIPS",
       "title": "Ajukan Pinjaman Sesuai Kemampuan Bayar",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FAjukan%20Pinjaman%20Sesuai%20Kemampuan%20Bayar.html?alt=media&token=da2dbad2-bea8-43a0-9963-062680184649",
       "video": ""
     },
@@ -85,7 +85,7 @@
       "id": 2,
        "category": "TIPS",
       "title": "Besar Biaya Pinjaman",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FBesar%20Biaya%20Pinjaman.html?alt=media&token=74bb674a-f6c3-4f2e-931e-194492d53994",
       "video": ""
     },
@@ -93,7 +93,7 @@
       "id": 3,
        "category": "TIPS",
       "title": "Dokumen Mendaftar Pinjaman",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FDokumen%20Mendaftar%20Pinjaman.html?alt=media&token=8f0388ad-6d40-44a8-a824-2361eabd71f8",
       "video": ""
     },
@@ -101,7 +101,7 @@
       "id": 4,
        "category": "TIPS",
       "title": "Memilih Pinjaman Legal",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FMemilih%20Pinjaman%20Legal.html?alt=media&token=13b7ea70-021d-46bc-9a10-0ef38ecf0a4e",
       "video": ""
     },
@@ -109,7 +109,7 @@
       "id": 5,
        "category": "TIPS",
       "title": "Mendaftar Pinjaman Tanpa NPWP",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FMendaftar%20Pinjaman%20Tanpa%20NPWP.html?alt=media&token=61da5d7b-186f-4c8b-8eb5-3b374064100a",
       "video": ""
     },
@@ -117,7 +117,7 @@
       "id": 6,
        "category": "TIPS",
       "title": "Merencanakan Anggaran Untuk Pinjaman",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FMerencanakan%20Anggaran%20Untuk%20Pinjaman.html?alt=media&token=2a634702-849e-445b-96f7-df7be6753285",
       "video": ""
     },
@@ -125,7 +125,7 @@
       "id": 7,
        "category": "TIPS",
       "title": "Penyebab Pinjaman Gagal",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FPenyebab%20Pinjaman%20Gagal.html?alt=media&token=67b58518-645f-4ed2-aa78-a902750b75ef",
       "video": ""
     },
@@ -133,7 +133,7 @@
       "id": 8,
        "category": "TIPS",
       "title": "Pinjaman Bunga Rendah",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FPinjaman%20Bunga%20Rendah.html?alt=media&token=e218cec4-bfeb-4f7c-a825-e51a7343098c",
       "video": ""
     },
@@ -141,7 +141,7 @@
       "id": 9,
        "category": "TIPS",
       "title": "Pinjaman Tenor Rendah",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FPinjaman%20Tenor%20Rendah.html?alt=media&token=8367f360-3ed5-4a46-90e8-e2a8eabc2819",
       "video": ""
     },
@@ -149,7 +149,7 @@
       "id": 10,
        "category": "TIPS",
       "title": "Simulasi Cicilan Dan Biaya Denda",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FSimulasi%20Cicilan%20Dan%20Biaya%20Denda.html?alt=media&token=6ff8351d-31bb-48dc-aa96-57100f0f72c0",
       "video": ""
     },
@@ -157,7 +157,7 @@
       "id": 11,
        "category": "TIPS",
       "title": "Solusi Pinjaman Yang Gagal",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FSolusi%20Pinjaman%20Yang%20Gagal.html?alt=media&token=0e2c7395-5dcd-4e2a-8e97-3b2cbe91e2bf",
       "video": ""
     },
@@ -165,7 +165,7 @@
       "id": 12,
        "category": "TIPS",
       "title": "Syarat dan Ketentuan",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FSyarat%20dan%20Ketentuan.html?alt=media&token=d47a5a28-c34c-486d-988a-fcfc999c601a",
       "video": ""
     },
@@ -173,7 +173,7 @@
       "id": 13,
        "category": "TIPS",
       "title": "Tips Pinjaman Cepat Cair",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FTips%20Pinjaman%20Cepat%20Cair.html?alt=media&token=b5e39f85-f22d-4749-8040-2cc291661399",
       "video": ""
     },
@@ -181,7 +181,7 @@
       "id": 14,
        "category": "TIPS",
       "title": "Tips Pinjaman",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FTips%20Pinjaman.html?alt=media&token=f6e7c23d-d634-44e6-8a79-6a2bbe75ccad",
       "video": ""
     },
@@ -189,7 +189,7 @@
       "id": 15,
        "category": "TIPS",
       "title": "Verifikasi Identitas Pinjaman",
-      "image": "https://raw.githubusercontent.com/craftlover33/TIPSguide1/main/icon.png",
+      "image": "https://raw.githubusercontent.com/craftlover33/pinjamanguide1/main/icon.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/SakuKita%2FVerifikasi%20Identitas%20Pinjaman.html?alt=media&token=0c4cb68a-6f5e-42d6-ae6b-27426e1eb8c6",
       "video": ""
     }
