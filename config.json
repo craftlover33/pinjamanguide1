@@ -28,7 +28,7 @@
       "admob_banner_unit_id": "0",
       "admob_interstitial_unit_id": "0",
       "admob_native_unit_id": "0",
-      "admob_app_open_unit_id": "",
+      "admob_app_open_unit_id": "0",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
